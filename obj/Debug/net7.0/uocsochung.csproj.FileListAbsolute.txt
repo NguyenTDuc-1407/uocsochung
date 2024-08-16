@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\uocsochung\bin\Debug\net7.0\uocsochung.exe
+C:\Users\ASUS\Desktop\uocsochung\bin\Debug\net7.0\uocsochung.deps.json
+C:\Users\ASUS\Desktop\uocsochung\bin\Debug\net7.0\uocsochung.runtimeconfig.json
+C:\Users\ASUS\Desktop\uocsochung\bin\Debug\net7.0\uocsochung.dll
+C:\Users\ASUS\Desktop\uocsochung\bin\Debug\net7.0\uocsochung.pdb
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.dll
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\refint\uocsochung.dll
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.pdb
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\uocsochung.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\uocsochung\obj\Debug\net7.0\ref\uocsochung.dll
